@@ -17,6 +17,7 @@ resources:
   - ../../../../base/core/namespaces/opf-alertreceiver
   - ../../../../base/nmstate.io/nmstates/nmstate
   - ../../../../base/operator.openshift.io/ingresscontrollers/default
+  - ../../../../base/operators.coreos.com/operatorgroups/cluster-logging
   - ../../../../base/operators.coreos.com/operatorgroups/keycloak
   - ../../../../base/operators.coreos.com/operatorgroups/openshift-nmstate
   - ../../../../base/operators.coreos.com/operatorgroups/operator-acm-group

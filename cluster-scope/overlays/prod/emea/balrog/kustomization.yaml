@@ -17,6 +17,7 @@ resources:
     - ../../../../base/core/namespaces/thoth-graph-prod
     - ../../../../base/core/namespaces/thoth-infra-prod
     - ../../../../base/core/namespaces/thoth-middletier-prod
+    - ../../../../base/operators.coreos.com/operatorgroups/cluster-logging
     - ../../../../base/operators.coreos.com/operatorgroups/opf-kafka
     - ../../../../base/operators.coreos.com/subscriptions/cert-manager
     - ../../../../base/operators.coreos.com/subscriptions/cluster-logging
